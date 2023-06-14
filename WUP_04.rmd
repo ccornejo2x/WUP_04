@@ -51,8 +51,7 @@ labs(x = "DEGREE", y = "WORDSUM")+
 theme(plot.title = element_text(hjust = 0.5)) +
 ggtitle("Fancy Box Plot")
 ```
-
-
+SIne LT High School would not overlap with Junior College or Graduate School, it is clear that the two types of education are extremely likely to be distinct. In addition, High School and Graduate do not cross over. It is therefore likely to be different. In the end, LT High School and graduate are not only distinct from one another but also from other educational options like High School and Junior College. 
 
 ### Numerical Descriptive Results
 
